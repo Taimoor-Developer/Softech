@@ -1,0 +1,19 @@
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.btn-outline-danger {
+  color: black;
+  border-color: ghostwhite;
+}
+
+.btn-warning:hover{
+  background-color: #dc3545;;
+}
+
+
+.link-light:hover{
+  color: orange;
+}
